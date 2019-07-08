@@ -1,10 +1,10 @@
 NAME="Netrunner"
-VERSION_ID="19.06"
-VERSION="19.06 (Blackbird)"
+VERSION_ID="19.08"
+VERSION="19.08 (Indigo)"
 ID=netrunner
 ID_LIKE=debian
 HOME_URL="http://www.netrunner.com/"
 SUPPORT_URL="http://forum.netrunner-os.com/"
 BUG_REPORT_URL="https://github.com/netrunner/netrunner-feedback"
 VERSION_CODENAME=testing
-PRETTY_NAME="Netrunner 19.06 - Blackbird"
+PRETTY_NAME="Netrunner 19.08 - Indigo"

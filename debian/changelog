@@ -1,8 +1,14 @@
+base-files (10.5) buster; urgency=medium
+
+  * Bump version 
+
+ -- Leszek Lesner <leszek@zevenos.com>  Thu, 19 Nov 2020 10:57:20 +1300
+
 base-files (10.4) buster; urgency=medium
 
   * Bump version again
 
- -- Leszek Lesner <leszek@hp-spectrex360>  Mon, 18 Nov 2019 23:00:48 +0100
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 18 Nov 2019 23:00:48 +0100
 
 base-files (10.3) buster; urgency=medium
 
